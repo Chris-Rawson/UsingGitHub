@@ -2,9 +2,9 @@ We have some exciting weeks ahead, as well as some interesting assessment tasks 
 
 At the end of the five FutureLearn courses you will have developed a sense of yourself professionally, found new skills and be able to exhibit a solid professional portfolio to employers and colleagues.
 
-Over the next two weeks you will:
+Over the next two weeks you will do the following:
 
-* apply reflective practice to evaluate your current skills against workplace requirements
+* apply reflective practice to evaluate your current skills against workplace stuff
 
 * implement self-reflection to improve your career advancements within the IT profession
 
@@ -35,7 +35,7 @@ Participating in seminars is  a great way to consolidate your understanding of t
 
 
 
-A total of four online seminars will be conducted: 
+A total of four online seminars will be conducted throughout this unit.
 
 
 
